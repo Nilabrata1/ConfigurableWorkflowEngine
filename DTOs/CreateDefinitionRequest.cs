@@ -1,4 +1,4 @@
-namespace WorkflowEngine.DTOs
+ namespace WorkflowEngine.DTOs
 {
     public class CreateDefinitionRequest
     {
