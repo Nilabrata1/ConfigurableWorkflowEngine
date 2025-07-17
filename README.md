@@ -1,6 +1,6 @@
 # WorkflowEngine
 
-A minimal .NET 8 Web API for configurable workflows as state machines.
+A minimal .NET 8 Web API for Configurable Workflow Engine (State-Machine API)
 
 ## Prerequisites
 - .NET 8 SDK installed
