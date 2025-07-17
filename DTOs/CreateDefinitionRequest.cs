@@ -1,6 +1,3 @@
-// File: DTOs/CreateDefinitionRequest.cs
-using WorkflowEngine.Models;
-
 namespace WorkflowEngine.DTOs
 {
     public class CreateDefinitionRequest
