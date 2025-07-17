@@ -4,6 +4,9 @@ using WorkflowEngine.Repositories;
 using WorkflowEngine.Services;
 using WorkflowEngine.Validators;
 using WorkflowEngine.Errors;
+using WorkflowEngine.DTOs;
+using WorkflowEngine.Models;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
